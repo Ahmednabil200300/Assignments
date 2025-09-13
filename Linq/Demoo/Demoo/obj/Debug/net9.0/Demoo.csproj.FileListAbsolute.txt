@@ -1,0 +1,14 @@
+H:\C# Projects\Demoo\Demoo\bin\Debug\net9.0\Demoo.exe
+H:\C# Projects\Demoo\Demoo\bin\Debug\net9.0\Demoo.deps.json
+H:\C# Projects\Demoo\Demoo\bin\Debug\net9.0\Demoo.runtimeconfig.json
+H:\C# Projects\Demoo\Demoo\bin\Debug\net9.0\Demoo.dll
+H:\C# Projects\Demoo\Demoo\bin\Debug\net9.0\Demoo.pdb
+H:\C# Projects\Demoo\Demoo\obj\Debug\net9.0\Demoo.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Projects\Demoo\Demoo\obj\Debug\net9.0\Demoo.AssemblyInfoInputs.cache
+H:\C# Projects\Demoo\Demoo\obj\Debug\net9.0\Demoo.AssemblyInfo.cs
+H:\C# Projects\Demoo\Demoo\obj\Debug\net9.0\Demoo.csproj.CoreCompileInputs.cache
+H:\C# Projects\Demoo\Demoo\obj\Debug\net9.0\Demoo.dll
+H:\C# Projects\Demoo\Demoo\obj\Debug\net9.0\refint\Demoo.dll
+H:\C# Projects\Demoo\Demoo\obj\Debug\net9.0\Demoo.pdb
+H:\C# Projects\Demoo\Demoo\obj\Debug\net9.0\Demoo.genruntimeconfig.cache
+H:\C# Projects\Demoo\Demoo\obj\Debug\net9.0\ref\Demoo.dll
