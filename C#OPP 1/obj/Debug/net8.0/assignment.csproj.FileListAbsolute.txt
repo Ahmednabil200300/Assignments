@@ -1,0 +1,14 @@
+E:\assignment3\C44-G03-OOP01\Day01OOP\assignment\bin\Debug\net8.0\assignment.exe
+E:\assignment3\C44-G03-OOP01\Day01OOP\assignment\bin\Debug\net8.0\assignment.deps.json
+E:\assignment3\C44-G03-OOP01\Day01OOP\assignment\bin\Debug\net8.0\assignment.runtimeconfig.json
+E:\assignment3\C44-G03-OOP01\Day01OOP\assignment\bin\Debug\net8.0\assignment.dll
+E:\assignment3\C44-G03-OOP01\Day01OOP\assignment\bin\Debug\net8.0\assignment.pdb
+E:\assignment3\C44-G03-OOP01\Day01OOP\assignment\obj\Debug\net8.0\assignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\assignment3\C44-G03-OOP01\Day01OOP\assignment\obj\Debug\net8.0\assignment.AssemblyInfoInputs.cache
+E:\assignment3\C44-G03-OOP01\Day01OOP\assignment\obj\Debug\net8.0\assignment.AssemblyInfo.cs
+E:\assignment3\C44-G03-OOP01\Day01OOP\assignment\obj\Debug\net8.0\assignment.csproj.CoreCompileInputs.cache
+E:\assignment3\C44-G03-OOP01\Day01OOP\assignment\obj\Debug\net8.0\assignment.dll
+E:\assignment3\C44-G03-OOP01\Day01OOP\assignment\obj\Debug\net8.0\refint\assignment.dll
+E:\assignment3\C44-G03-OOP01\Day01OOP\assignment\obj\Debug\net8.0\assignment.pdb
+E:\assignment3\C44-G03-OOP01\Day01OOP\assignment\obj\Debug\net8.0\assignment.genruntimeconfig.cache
+E:\assignment3\C44-G03-OOP01\Day01OOP\assignment\obj\Debug\net8.0\ref\assignment.dll
