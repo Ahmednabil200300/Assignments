@@ -1,0 +1,11 @@
+E:\assignment3\OOpDay3\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.deps.json
+E:\assignment3\OOpDay3\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.dll
+E:\assignment3\OOpDay3\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.pdb
+E:\assignment3\OOpDay3\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+E:\assignment3\OOpDay3\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfoInputs.cache
+E:\assignment3\OOpDay3\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfo.cs
+E:\assignment3\OOpDay3\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\assignment3\OOpDay3\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.dll
+E:\assignment3\OOpDay3\ClassLibrary1\obj\Debug\net8.0\refint\ClassLibrary1.dll
+E:\assignment3\OOpDay3\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.pdb
+E:\assignment3\OOpDay3\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary1.dll
