@@ -1,0 +1,14 @@
+E:\assignment3\Day6OOP\Assignment\bin\Debug\net8.0\Assignment.exe
+E:\assignment3\Day6OOP\Assignment\bin\Debug\net8.0\Assignment.deps.json
+E:\assignment3\Day6OOP\Assignment\bin\Debug\net8.0\Assignment.runtimeconfig.json
+E:\assignment3\Day6OOP\Assignment\bin\Debug\net8.0\Assignment.dll
+E:\assignment3\Day6OOP\Assignment\bin\Debug\net8.0\Assignment.pdb
+E:\assignment3\Day6OOP\Assignment\obj\Debug\net8.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\assignment3\Day6OOP\Assignment\obj\Debug\net8.0\Assignment.AssemblyInfoInputs.cache
+E:\assignment3\Day6OOP\Assignment\obj\Debug\net8.0\Assignment.AssemblyInfo.cs
+E:\assignment3\Day6OOP\Assignment\obj\Debug\net8.0\Assignment.csproj.CoreCompileInputs.cache
+E:\assignment3\Day6OOP\Assignment\obj\Debug\net8.0\Assignment.dll
+E:\assignment3\Day6OOP\Assignment\obj\Debug\net8.0\refint\Assignment.dll
+E:\assignment3\Day6OOP\Assignment\obj\Debug\net8.0\Assignment.pdb
+E:\assignment3\Day6OOP\Assignment\obj\Debug\net8.0\Assignment.genruntimeconfig.cache
+E:\assignment3\Day6OOP\Assignment\obj\Debug\net8.0\ref\Assignment.dll
